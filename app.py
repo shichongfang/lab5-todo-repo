@@ -1,4 +1,4 @@
-from app import Flask
+from flask import Flask
 from flask import render_template
 from flask_mysqldb import MySQL
  
